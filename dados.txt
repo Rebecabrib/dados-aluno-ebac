@@ -3,7 +3,7 @@ Dados do aluno
 -Primeiro Nome: Rebeca
 -Profissão: QA
 -Cidade: São Paulo
--O que faz nas horas vagas: Viajo
+-O que faz nas horas vagas: Viajo para praia
 -Feedback sobre o curso Qualidade de Software: Muito bom
 -Feedback sobre a plataforma de estudo da EBAC: Muito boa!
 
